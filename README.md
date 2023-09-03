@@ -4,9 +4,6 @@
 
 This is a E-commerce app.
 
-## Final Product
-
-[![Final Product](assets/images/final_product.jpg)](assets/images/final_product.jpg)
 
 ## Credits
 
