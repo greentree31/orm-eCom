@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 # ORM -eCom
+=======
+# ORM-eCom
+>>>>>>> 3a76d56f95b4641098ea246b55ace846630bfac3
 
 ## Description
 
 This is a E-commerce app.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3a76d56f95b4641098ea246b55ace846630bfac3
 ## Credits
 
 Melisha Evans
